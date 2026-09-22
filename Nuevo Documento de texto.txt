@@ -1,0 +1,4 @@
+.env: Guarda tu API Key.   
+.gitignore: Evita que ese .env se suba a repositorios públicos por error.   
+__init__.py: Marca la carpeta como paquete de Python reconocible por el ADK.   
+agent.py: Contiene el código fuente del agente (root_agent).   

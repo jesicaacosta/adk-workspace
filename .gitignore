@@ -1,0 +1,15 @@
+
+
+
+# Claves API y variables de entorno
+.env
+
+# Archivos de configuración local del SDK
+.adk/
+
+# Entorno virtual y librerías instaladas
+.venv/
+
+# Archivos compilados y temporales de Python
+__pycache__/
+*.pyc
